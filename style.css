@@ -70,10 +70,6 @@ li:hover {
     color: #1182eb;
 }
 
-.row {
-    /* margin-bottom: 75px; */
-}
-
 .regents {
     display: flex;
     justify-content: center;
